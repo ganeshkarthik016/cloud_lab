@@ -1,0 +1,12 @@
+# Cloud Computing Labs
+
+A collection of Cloud Computing laboratory work covering virtualization,
+KVM/QEMU, VM networking, and cloud infrastructure concepts.
+
+The repository also keeps lab source code in one place, making it easy
+to clone and use inside the VMs during practical work.
+
+## Labs
+
+- **Lab 1:** KVM Hello World and hardware-assisted virtualization
+- **Lab 2:** QEMU/KVM VM Web Server + Client with Flask
